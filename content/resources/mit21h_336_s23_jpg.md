@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21h-336-the-making-of-a-roman-emperor-spring-2023/mit21h_336_s23.jpg
+file: courses/the-making-of-a-roman-emperor/mit21h_336_s23.jpg
 file_size: 164845
 file_type: image/jpeg
 image_metadata:
