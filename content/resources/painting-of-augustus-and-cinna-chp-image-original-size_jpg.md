@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/the-making-of-a-roman-emperor/painting-of-augustus-and-cinna-chp-image-original-size.jpg
+file: /ol-ocw-studio-app/courses/21h-336-the-making-of-a-roman-emperor-spring-2023/painting-of-augustus-and-cinna-chp-image-original-size.jpg
 file_size: 100633
 file_type: image/jpeg
 image_metadata:
